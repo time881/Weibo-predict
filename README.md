@@ -7,4 +7,4 @@ For Weibo predict:</br>
   and each vocabulary will get most first time respost number as there weight, save as dictionary
   then, have average weight for each sentence by Sum(sentence)/(number of vocabulary) as one condiction*</br>
   *2) Having train with the RandomForestRegressor, 50 times for each and max deep is 4*</br>
-3. Predict by Modules. 
+3. Predict by Modules.
